@@ -4,7 +4,7 @@ namespace Assignment1.Assignments
 {
     public class Factorial
     {
-        public BigInteger Calculate(BigInteger number)
+        public static BigInteger Calculate(BigInteger number)
         {
             BigInteger result = 1;
 
